@@ -1,0 +1,12 @@
+pyspark==3.5.3
+delta-spark==3.2.0
+pandas==2.2.2
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+mlflow>=2.13.0
+transformers>=4.40.0
+flask>=3.0.0
+seaborn>=0.13.0
+matplotlib>=3.8.0
+# torch installed separately (CPU build):
+# pip install torch --index-url https://download.pytorch.org/whl/cpu
